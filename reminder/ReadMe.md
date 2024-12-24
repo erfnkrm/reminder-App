@@ -25,7 +25,7 @@ A simple reminder application that allows users to set, view, and delete reminde
 
 1. Clone the repository to your local machine:
 
-   git clone <repository-url>
+   git clone https://github.com/erfnkrm/reminder-App.git
 
 
 2. Navigate to the project directory:
