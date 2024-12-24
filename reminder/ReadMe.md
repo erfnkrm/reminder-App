@@ -29,10 +29,12 @@ A simple reminder application that allows users to set, view, and delete reminde
 
 
 2. Navigate to the project directory:
-    cd reminder-app
+    cd reminder-App/reminder
 
 3. Run the Python script:
+
     python reminder-v2.py
     or:
+
     python reminder-v1.py
 
